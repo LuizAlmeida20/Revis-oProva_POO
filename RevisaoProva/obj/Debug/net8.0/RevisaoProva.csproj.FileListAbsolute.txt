@@ -1,0 +1,14 @@
+C:\Users\luizi\OneDrive\Documents\C#\revisao\RevisaoProva\bin\Debug\net8.0\RevisaoProva.exe
+C:\Users\luizi\OneDrive\Documents\C#\revisao\RevisaoProva\bin\Debug\net8.0\RevisaoProva.deps.json
+C:\Users\luizi\OneDrive\Documents\C#\revisao\RevisaoProva\bin\Debug\net8.0\RevisaoProva.runtimeconfig.json
+C:\Users\luizi\OneDrive\Documents\C#\revisao\RevisaoProva\bin\Debug\net8.0\RevisaoProva.dll
+C:\Users\luizi\OneDrive\Documents\C#\revisao\RevisaoProva\bin\Debug\net8.0\RevisaoProva.pdb
+C:\Users\luizi\OneDrive\Documents\C#\revisao\RevisaoProva\obj\Debug\net8.0\RevisaoProva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luizi\OneDrive\Documents\C#\revisao\RevisaoProva\obj\Debug\net8.0\RevisaoProva.AssemblyInfoInputs.cache
+C:\Users\luizi\OneDrive\Documents\C#\revisao\RevisaoProva\obj\Debug\net8.0\RevisaoProva.AssemblyInfo.cs
+C:\Users\luizi\OneDrive\Documents\C#\revisao\RevisaoProva\obj\Debug\net8.0\RevisaoProva.csproj.CoreCompileInputs.cache
+C:\Users\luizi\OneDrive\Documents\C#\revisao\RevisaoProva\obj\Debug\net8.0\RevisaoProva.dll
+C:\Users\luizi\OneDrive\Documents\C#\revisao\RevisaoProva\obj\Debug\net8.0\refint\RevisaoProva.dll
+C:\Users\luizi\OneDrive\Documents\C#\revisao\RevisaoProva\obj\Debug\net8.0\RevisaoProva.pdb
+C:\Users\luizi\OneDrive\Documents\C#\revisao\RevisaoProva\obj\Debug\net8.0\RevisaoProva.genruntimeconfig.cache
+C:\Users\luizi\OneDrive\Documents\C#\revisao\RevisaoProva\obj\Debug\net8.0\ref\RevisaoProva.dll
